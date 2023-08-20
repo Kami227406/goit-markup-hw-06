@@ -1427,6 +1427,13 @@ input:focus+.modal-form-icon {
         letter-spacing: 0.02em;
     }
 
+    .header-soc {
+        display: flex;
+        flex-direction: row;
+        font-style: normal;
+        margin-left: auto;
+    }
+
     /* hero image */
 
     .hero {
